@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+**Author:** Oppangi Poojita
+
 ## 📚 Overview
 
 This repository contains a complete, structured learning path covering the entire spectrum of Artificial Intelligence and Machine Learning, from foundational concepts to cutting-edge AI agents. Each guide is designed to take you from beginner to expert level.
@@ -108,11 +110,19 @@ Each guide includes a detailed table of contents covering:
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
+## 👤 Author
+
+**Oppangi Poojita** - Creator and maintainer of this comprehensive AI learning guide.
+
+See [AUTHORS.md](./AUTHORS.md) for more information.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
+
+**Created by:** Oppangi Poojita
 
 This guide is designed for developers transitioning into AI/ML. Special thanks to the open-source community for the amazing tools and resources that make learning AI accessible to everyone.
 
