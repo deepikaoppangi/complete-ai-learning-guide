@@ -1,20 +1,4 @@
 # Deep Learning (DL) - Complete Guide
-## From Beginner to Expert
-
-**For Full-Stack Developers Entering the AI/ML World**
-
----
-
-**Note**: This is part of a comprehensive guide. The complete guide covers:
-1. Machine Learning (ML)
-2. Deep Learning (DL)
-3. Natural Language Processing (NLP)
-4. Generative AI
-5. AI Agents
-
----
-
-## Deep Learning (DL)
 
 ### What is Deep Learning?
 
