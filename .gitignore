@@ -1,0 +1,51 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files (if you add datasets)
+*.csv
+*.json
+*.pkl
+*.h5
+*.hdf5
+data/
+datasets/
+
+# Model files (if you add trained models)
+*.pth
+*.pt
+*.ckpt
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
